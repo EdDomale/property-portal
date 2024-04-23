@@ -1,0 +1,178 @@
+{
+	"properties": [
+        {
+            "id":"prop1",
+			"type":"Terraced",
+            "bedrooms":2,
+			"price":625000,
+			"description":"Situated moments away from Battersea Park this is a most charming two bedroom period apartment set over two floors and has its own private roof terrace.",
+			"location":{
+                "address":"Queenstown Road, Battersea Park, SW8",
+                "lat": 51.47084778749182,
+                "lon": -0.14960922897814433
+            },
+			"images":[
+                "images/prop1_1.jpeg",
+                "images/prop1_2.jpeg",
+                "images/prop1_3.jpeg",
+                "images/prop1_4.jpeg"
+            ],
+			"url":"properties/prop1.html",
+            "availability":"Purchase",
+            "added": {
+                "month":"December",
+                "day":12,
+                "year":2023
+            }
+        },
+		{
+            "id":"prop2",
+			"type":"Apartment",
+            "bedrooms":2,
+			"price":1750000,
+			"description":"Indulge in luxurious living with this stunning 2 bed, 2 bath apartment with a private winter garden situated on the 13th floor of the Foster & Partners designed Battersea Roof Gardens building in Phase 3 of the Battersea Power Station development in Nine Elms, London.",
+			"location":{
+                "address":"Battersea Roof Gardens. Electric Boulevard, Battersea Power Station",
+                "lat": 51.48142914126818,
+                "lon": -0.1459247954468133
+            },
+			"images":[
+                "images/prop2_1.jpeg",
+                "images/prop2_2.jpeg",
+                "images/prop2_3.jpeg",
+                "images/prop2_4.jpeg"
+            ],
+			"url":"properties/prop2.html",
+            "availability":"Rent",
+            "added": {
+                "month":"October",
+                "day":20,
+                "year":2023
+            }
+        },
+        {
+            "id":"prop3",
+			"type":"Detached",
+            "bedrooms":6,
+			"price":5185000,
+			"description":"A spacious contemporary detached house built by Lifestyle Projects approximately 20 years ago in a great location near Wimbledon Village and within walking distance of the town centre and transport facilities",
+			"location":{
+                "address":"St Mary's Road, Wimbledon Village, SW19",
+                "lat": 51.42617004480537,
+                "lon": -0.21011297508174973
+            },
+			"images":[
+                "images/prop3_1.jpeg",
+                "images/prop3_2.jpeg",
+                "images/prop3_3.jpeg",
+                "images/prop3_4.jpeg"
+            ],
+			"url":"properties/prop3.html",
+            "availability":"Purchase",
+            "added": {
+                "month":"November",
+                "day":3,
+                "year":2023
+            }
+        },
+        {
+            "id":"prop4",
+			"type":"Flat",
+            "bedrooms":3,
+			"price":1400000,
+			"description":"Located within a desirable modern apartment building behind private gates and spread over two floors, this superb duplex apartment offers almost 1,600 sqft of living space. Benefitting from direct access to a beautifully maintained communal garden and also a private underground parking space.",
+			"location":{
+                "address":"The Clockhouse, 4 Windmill Road, London, SW19",
+                "lat": 51.43735030134009,
+                "lon": -0.22557673275231993
+            },
+			"images":[
+                "images/prop4_1.jpeg",
+                "images/prop4_2.jpeg",
+                "images/prop4_3.jpeg",
+                "images/prop4_4.jpeg"
+            ],
+			"url":"properties/prop4.html",
+            "availability":"Rent",
+            "added": {
+                "month":"October",
+                "day":17,
+                "year":2023
+            }
+        },
+        {
+            "id":"prop5",
+			"type":"Terraced",
+            "bedrooms":5,
+			"price":775000,
+			"description":"Welcome to your perfect family home in a quiet residential corner of Furzedown. This newly renovated 5-bedroom house, in the heart of Furzedown and within close proximity of Tooting Broadway this offers the best of suburban tranquillity and urban convenience.",
+			"location":{
+                "address":"Beclands Road, Furzedown, SW17",
+                "lat": 51.42203007754179,
+                "lon": -0.15337911926064407
+            },
+			"images":[
+                "images/prop5_1.jpeg",
+                "images/prop5_2.jpeg",
+                "images/prop5_3.jpeg",
+                "images/prop5_4.jpeg"
+            ],
+			"url":"properties/prop5.html",
+            "availability":"Purchase",
+            "added": {
+                "month":"November",
+                "day":11,
+                "year":2023
+            }
+        },
+        {
+            "id":"prop6",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":775000,
+			"description":"James Pendleton take great pleasure introducing to the market an immaculately presented first floor Victorian conversion flat located on a sought after road in the heart of Wandsworth Common. The property offers a mixture of contemporary and period features throughout the flat.",
+			"location":{
+                "address":"St James's Drive, Wandsworth Common, London, SW17",
+                "lat": 51.443783068509376,
+                "lon": -0.16455437915422277
+            },
+			"images":[
+                "images/prop6_1.jpeg",
+                "images/prop6_2.jpeg",
+                "images/prop6_3.jpeg",
+                "images/prop6_4.jpeg"
+            ],
+			"url":"properties/prop6.html",
+            "availability":"Rent",
+            "added": {
+                "month":"December",
+                "day":26,
+                "year":2023
+            }
+        },
+        {
+            "id":"prop7",
+			"type":"House",
+            "bedrooms":3,
+			"price":900000,
+			"description":"Perfect as a family home, this three bedroom semi-detached house offers a spacious double reception, a well-fitted kitchen, conservatory, family bathroom, additional shower room and a well-maintained garden with an annexe.",
+			"location":{
+                "address":"Gladstone Park Gardens, Cricklewood",
+                "lat": 51.5617930975651,
+                "lon": -0.2281541004292979
+            },
+			"images":[
+                "images/prop7_1.jpeg",
+                "images/prop7_2.jpeg",
+                "images/prop7_3.jpeg",
+                "images/prop7_4.jpeg"
+            ],
+			"url":"properties/prop7.html",
+            "availability":"Purchase",            
+            "added": {
+                "month":"January",
+                "day":3,
+                "year":2024
+            }
+        }
+]}
